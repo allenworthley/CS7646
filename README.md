@@ -6,4 +6,6 @@ Q-learning Algorithmic Trader
   Developed custom Q-Learning Algorithm to devise optimal market signaling from combination of leading 
     indicators MACD, RSI, and EMA that minimized out of sample error.
     
+    This is all shown in project 8
+    
     
